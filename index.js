@@ -2,4 +2,4 @@
 
 let currentUser = 'Muath'
 
-let  welcomeMessage = ''
+let  welcomeMessage = 'Welcome to Flatbook, '
