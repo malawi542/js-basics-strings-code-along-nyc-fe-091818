@@ -2,3 +2,4 @@
 
 let currentUser = 'Muath'
 
+let  welcomeMessage = ''
